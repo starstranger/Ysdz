@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://ccpic.wanmeiyueyu.com/Data/kyco/Aqu/kuaiyongco3050/ky_iphone_iPhone_qudao_010/kuaiyong.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://pic.wanmeiyueyu.com/Data/APPINFOR/27/68/com.kuaiyong.browser/icon1.3.2.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://pic.wanmeiyueyu.com/Data/APPINFOR/27/68/com.kuaiyong.browser/icon1.3.2.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>AmU3UJmZFRGaOLLhw8ZrV.cYMwjV7UVErvSG05KFMDhu5PQSirxh5DJpvE.bjHIJ0qG</string>
+				<key>bundle-version</key>
+				<string>3.0.5.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>快用--免越狱，免账号，百万正版应用极速免费装</string>
+			</dict>
+		</dict>
+	</array>
+	<key>kycode</key>
+	<string>736a8c2ee7ea944d847df7195320c12d</string>
+</dict>
+</plist>
